@@ -35,6 +35,7 @@ public class For_Loops {
 		//500 + 475 + 450+......+25 = ???
 		
 		int sum1 = 0;
+		
 		for(int j=500 ; j>=25 ; j-=25) {
 			System.out.print(j + " ");
 			sum1 = sum1 + j;
